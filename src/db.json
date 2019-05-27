@@ -1,0 +1,55 @@
+{
+    "Employees":
+    [
+        {
+            "EmpId":"1",
+            "EmpTagNumber": "abc1",
+            "FirstName": "Ruchi",
+            "LastName":"Goswami",
+            "EmailAdress": "r@gmail.com",
+            "Department": "HR",
+            "Birthdate": "14-05-1995",
+            "Designation": "HR excutive"
+        },
+        {
+            "EmpId":"2",
+            "EmpTagNumber": "abc2",
+            "FirstName": "Ruchi",
+            "LastName":"Goswami",
+            "EmailAdress": "r@gmail.com",
+            "Department": "HR",
+            "Birthdate": "14-05-1995",
+            "Designation": "HR excutive"
+        },
+        {
+            "EmpId":"3",
+            "EmpTagNumber": "abc3",
+            "FirstName": "Ruchi",
+            "LastName":"Goswami",
+            "EmailAdress": "r@gmail.com",
+            "Department": "HR",
+            "Birthdate": "14-05-1995",
+            "Designation": "HR excutive"
+        },
+        {
+            "EmpId":"4",
+            "EmpTagNumber": "abc4",
+            "FirstName": "Ruchi",
+            "LastName":"Goswami",
+            "EmailAdress": "r@gmail.com",
+            "Department": "HR",
+            "Birthdate": "14-05-1995",
+            "Designation": "HR excutive"
+        },
+        {
+            "EmpId":"5",
+            "EmpTagNumber": "abc5",
+            "FirstName": "Ruchi",
+            "LastName":"Goswami",
+            "EmailAdress": "r@gmail.com",
+            "Department": "HR",
+            "Birthdate": "14-05-1995",
+            "Designation": "HR excutive"
+        }
+    ]   
+}
